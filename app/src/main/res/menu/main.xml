@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Delete"
+        android:id="@+id/itemDelete"
+        >
+    </item>
+    <item
+        android:title="Add"
+        android:id="@+id/itemAdd"
+        >
+    </item>
+
+    <item
+        android:title="Share"
+        android:id="@+id/itemShare"
+        >
+    </item>
+</menu>
